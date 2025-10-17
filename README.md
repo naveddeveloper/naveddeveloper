@@ -1,6 +1,6 @@
 <!-- TODO: Banner -->
 <p align="center">
-  <img src="[githubbanner.jpg](https://github.com/naveddeveloper/naveddeveloper/blob/main/githubbanner.jpg)" alt="Naved Ansari Banner" width="100%" />
+  <img src="githubbanner.jpg" alt="Naved Ansari Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Naved Ansari</h1>
