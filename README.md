@@ -1,36 +1,38 @@
 <!-- TODO: Banner -->
 <p align="center">
-  <img src="githubbanner.jpg" alt="Naved Ansari Banner" width="100%" />
+  <img src="banner.jpg" alt="Naved Ansari Banner" width="100%" />
 </p>
+<h1 align="center">Hi 👋, I'm Naved Ansari</h1>
 
-<h1 align="center">Hey 👋, I'm Naved Ansari</h1>
 <p align="center">
-  💻 Software Developer | 📱 Flutter Craftsman | 🚀 Open Source Enthusiast
+  <strong>Full Stack Developer</strong> •
+  <strong>Backend Engineer</strong> •
+  <strong>AI Integration Specialist</strong> •
+  <strong>Mobile App Developer</strong>
+</p>
+
+<p align="center">
+I help startups, businesses, and founders build fast, scalable, and production-ready digital products.
 </p>
 
 ---
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B53399&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Flutter+Craftsman;Open+Source+Enthusiast;Full-Stack+Explorer" alt="Typing SVG" />
-  </a>
-</div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+## About Me
 
-### 🧠 About Me
+I build software that solves real business problems—not just projects.
 
-I'm a curious engineer who believes in **turning caffeine into code** ☕💻.  
-I love solving real-world problems by building intuitive mobile apps and backend systems.
+Whether it's developing a modern web application, designing a scalable backend, creating a mobile app, integrating AI, or fixing complex production issues, I focus on delivering reliable solutions that users enjoy and businesses can grow with.
 
-- 💼 Creator of **[FortifyNote](https://github.com/naveddeveloper/FortifyNote)** – a secure note-taking app
-- 🛠 Tech stack: **Flutter**, **Dart**, **C++**, **Python**
-- 🔐 Passionate about security, cloud, and buttery-smooth UIs
-- ✍️ Blogger: [ansarinaved.vercel.app/blogs](https://ansarinaved.vercel.app/blogs)
-- 🌱 Currently exploring **React**, design systems & clean architecture
+## Expertise
 
----
-
-
+- 🌐 Full Stack Web Development
+- ⚙️ Scalable Backend APIs & System Architecture
+- 📱 Android & Flutter App Development
+- 🤖 AI Integration (OpenAI, Gemini & Automation)
+- 🛠 Bug Fixing & Performance Optimization
+- 🔐 Authentication, Database & Cloud Integration
+- 🚀 MVP Development for Startups
+- 📦 API Integration & Third-Party Services
 
 ### 🧰 Tech Toolbox
 
@@ -81,18 +83,6 @@ I love solving real-world problems by building intuitive mobile apps and backend
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveddeveloper&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveddeveloper&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveddeveloper&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Let’s Connect
 
 <p align="center">
@@ -111,8 +101,9 @@ I love solving real-world problems by building intuitive mobile apps and backend
 
 ### ✨ Final Thought
 
-> _“Your code is a story. Make it readable, maintainable, and meaningful.  
-> I don’t just build apps — I craft experiences.”_
+> *Building software that solves real problems, scales with confidence, and creates meaningful user experiences.*
+
+> *Every line of code is an opportunity to build something better.*
 
 ---
 
